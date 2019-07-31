@@ -1,0 +1,8 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Class */
+.hover a:hover {
+    background-color: grey;
+}
